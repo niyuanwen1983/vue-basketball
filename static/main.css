@@ -1,0 +1,41 @@
+.addcart {
+  width: 64px;
+  height: 64px;
+  background: url("../src/assets/basketball.png") no-repeat;
+  position: fixed;
+  top: 500px;
+  left: 300px;
+}
+
+#end {
+  position: fixed;
+  top: 10%;
+  left: 0;
+  z-index: 2000;
+  font-size: 12px;
+  color: #fff;
+}
+
+#msg {
+  position: fixed;
+  top: 300px;
+  left: 35px;
+  z-index: 10000;
+  width: 1px;
+  height: 52px;
+  line-height: 52px;
+  font-size: 20px;
+  text-align: center;
+  color: #fff;
+  background: #360;
+  display: none
+}
+
+.u-flyer {
+  width: 64px;
+  height: 64px;
+  background: url("../src/assets/basketball.png") no-repeat;
+  position: fixed;
+  top: 500px;
+  left: 300px;
+}
